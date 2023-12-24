@@ -362,6 +362,13 @@ logEach( '%f', x4 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/normal`][@stdlib/random/base/normal]</span><span class="delimiter">: </span><span class="description">normally distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-strided/normal`][@stdlib/random/strided/normal]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a normal distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -442,6 +449,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/strided/normal]: https://github.com/stdlib-js/random-strided-normal
+
+<!-- </related-links> -->
 
 </section>
 
